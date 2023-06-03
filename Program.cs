@@ -117,7 +117,7 @@ namespace Program
 
         public override void PrintAutomobile()
         {
-            Console.WriteLine($"The name of the car is {Name}");
+            Console.WriteLine($"The name of the vehicle is {Name}");
             Console.WriteLine($"Maximum speed - {MaxSpeed}");
             Console.WriteLine($"Maximum cargo weight - {maximumCargoWeight}");
         }
